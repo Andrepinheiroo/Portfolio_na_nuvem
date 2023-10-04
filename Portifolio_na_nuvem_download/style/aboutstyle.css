@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Stoke&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.top{
+    padding: 3% 0% 0% 15%;
+    display: flex;
+    gap: 80px;
+}
+.top__menu__link {
+    font-family: 'Montserrar', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #1BE07E;
+    text-decoration: none;
+
+}
+.top__menu__link:hover {
+    border-color: #FFFBC4;
+    background-color: #272727;
+}
+
+
+
+
+
+
+
+
+
+
+.rodape {
+    background-color: #1BE07E;
+    color: #000000;
+    text-align: center;
+    padding: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+}
